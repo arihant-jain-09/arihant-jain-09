@@ -49,3 +49,6 @@ Here are some ideas to get you started:
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
 [![Raspberrypi](https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=flat&logo=raspberry%20pi&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
 
+[![Intel](https://img.shields.io/badge/Intel-Core_i7_9th-0071C5?style=flat&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
+[![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=flat&logo=nvidia&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
+
