@@ -47,3 +47,4 @@ Here are some ideas to get you started:
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
 
 [![visual_studio_code](https://badges.aleen42.com/src/visual_studio_code.svg)](https://badges.aleen42.com/src/visual_studio_code.svg) 
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
