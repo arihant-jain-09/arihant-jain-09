@@ -27,12 +27,10 @@ Here are some ideas to get you started:
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09)
 [![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09)
 
-
-
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09)
 [![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09)
-
+[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09)
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09)
