@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white&link=https://arihantjain09.medium.com/make-a-mailchimp-newsletter-using-nodejs-6f379edaaae0)](https://arihantjain09.medium.com/make-a-mailchimp-newsletter-using-nodejs-6f379edaaae0) 
 
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
+[![KaliLinux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
 
 [![visual_studio_code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
