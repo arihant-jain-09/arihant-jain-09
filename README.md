@@ -45,9 +45,13 @@ Here are some ideas to get you started:
 [![KaliLinux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
 
-[![visual_studio_code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
+[![VSCode](https://img.shields.io/badge/VSCode%20-%232E2E2E.svg?&style=flat&logo=visual-studio-code&logoColor=%2330A2FF&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
 [![Raspberrypi](https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=flat&logo=raspberry%20pi&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
+
+[![Tensorflow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat&logo=TensorFlow&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09)
+[![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
+[![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09)
 
 [![Intel](https://img.shields.io/badge/Intel-Core_i7_9th-0071C5?style=flat&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
 [![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=flat&logo=nvidia&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
