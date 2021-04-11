@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
 
-[![visual_studio_code](https://badges.aleen42.com/src/visual_studio_code.svg)](https://badges.aleen42.com/src/visual_studio_code.svg) 
+[![visual_studio_code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
 [![Raspberrypi](https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=flat&logo=raspberry%20pi&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
 
