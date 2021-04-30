@@ -1,7 +1,7 @@
 # Hi, I'm Arihant Jain
 
 <p align="center">
-   <a href=https://github.com/arihant-jain-09">
+   <a href=https://github.com/arihant-jain-09>
       <img src='https://svgshare.com/i/Woq.svg' title='A'  width="100"/>
    </a>
 </p>
