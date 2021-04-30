@@ -1,7 +1,9 @@
 # Hi, I'm Arihant Jain
 
 <p align="center">
-<img src='https://svgshare.com/i/Woq.svg' title='A'  width="100"/>
+   <a href=https://github.com/arihant-jain-09">
+      <img src='https://svgshare.com/i/Woq.svg' title='A'  width="100"/>
+   </a>
 </p>
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://www.instagram.com/arihant_jain_09/" target="_blank" style='margin-right:10px'>
@@ -21,7 +23,7 @@
   </a>
 </p>
 
-<hr>
+___
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="total code files" /></a>
