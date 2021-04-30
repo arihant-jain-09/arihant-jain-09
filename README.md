@@ -1,4 +1,5 @@
-### MERN STACK Web Developer
+# Hi, I'm Arihant Jain
+
 <p align="center">
 <img src='https://svgshare.com/i/Woq.svg' title='A'  width="100"/>
 </p>
