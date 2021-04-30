@@ -38,5 +38,6 @@
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white" /></a>
 
-<img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=arihant-jain-09&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=arihant-jain-09.arihant-jain-09" alt="visitors"></p>
+<img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=arihant-jain-09&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+
