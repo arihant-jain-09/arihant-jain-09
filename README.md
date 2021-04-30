@@ -1,5 +1,6 @@
 ### MERN STACK Web Developer
 
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=arihant-jain-09&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /> </p>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="total code files" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="total code files" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="total code files" /></a>
@@ -37,4 +38,5 @@
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat&logo=TensorFlow&logoColor=white" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white" /></a>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=arihant-jain-09&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /> </p>
+
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=arihant-jain-09.arihant-jain-09" alt="visitors"></p>
