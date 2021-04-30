@@ -1,7 +1,24 @@
 ### MERN STACK Web Developer
-
-<img align="center" src='https://svgshare.com/i/Woq.svg' title='A'  width="100"/>
-
+<p align="center">
+<img src='https://svgshare.com/i/Woq.svg' title='A'  width="100"/>
+</p>
+<p align="center" style="margin: -20px 0 30px">
+   <a href="https://www.instagram.com/arihant_jain_09/" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://i.ibb.co/PrgGCfk/instagram.png" alt="Instagram" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/14517622/arihant-jain" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/arihant-jain-09/" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:jain.ari2000@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
+  </a>
+</p>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="total code files" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="total code files" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="total code files" /></a>
