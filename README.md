@@ -1,6 +1,6 @@
 ### MERN STACK Web Developer
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=arihant-jain-09&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /> </p>
+<img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=arihant-jain-09&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="total code files" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="total code files" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="total code files" /></a>
