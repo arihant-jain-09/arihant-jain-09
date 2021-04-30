@@ -19,11 +19,12 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
   </a>
 </p>
+
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="total code files" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="total code files" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="total code files" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" /></a>
- 
+
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" /></a>
 
