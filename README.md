@@ -68,6 +68,6 @@ ___
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=arihant-jain-09.arihant-jain-09" alt="visitors"></p>
 
 <p align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=arihant-jain-09&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Arihant Jain :: Profile Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arihant-jain-09&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Arihant Jain :: Profile Stats" />
   <img height="198" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arihant-jain-09&langs_count=8&theme=tokyonight&layout=compact" alt="Arihant Jain :: Top Langs" />
 </p>
