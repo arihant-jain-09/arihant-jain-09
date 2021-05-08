@@ -66,5 +66,8 @@ ___
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white" /></a>
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=arihant-jain-09.arihant-jain-09" alt="visitors"></p>
-<img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=arihant-jain-09&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 
+<p align="center">
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=arihant-jain-09&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Arihant Jain :: Profile Stats" />
+  <img height="198" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arihant-jain-09&langs_count=8&theme=tokyonight&layout=compact" alt="Arihant Jain :: Top Langs" />
+</p>
