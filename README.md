@@ -2,7 +2,7 @@
 
 <p align="center">
    <a href=https://github.com/arihant-jain-09>
-      <img src='https://svgshare.com/i/Woq.svg' title='A'  width="100"/>
+      <img src='https://gist.githubusercontent.com/arihant-jain-09/1b78ffed230487f84f76a80dcca1ad95/raw/1f6d7186c01d48754105c1306cd740e9a8179df2/A.svg' title='A'  width="100"/>
    </a>
 </p>
 <p align="center" style="margin: -20px 0 30px">
