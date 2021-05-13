@@ -69,6 +69,6 @@ ___
 
 <h3 align="center">My GitHub Stats 📊 </h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arihant-jain-09&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Arihant Jain :: Profile Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arihant-jain-09&langs_count=8&theme=tokyonight&layout=compact" alt="Arihant Jain :: Top Langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arihant-jain-09&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Arihant Jain :: Profile Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arihant-jain-09&langs_count=8&theme=tokyonight&layout=compact" alt="Arihant Jain :: Top Langs" />
 </p>
