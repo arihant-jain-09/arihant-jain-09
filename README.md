@@ -51,19 +51,10 @@ ___
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/arihant-jain-09" /></a>
 
-<a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/arihant-jain-09" /></a>
-<a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
-
-<a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" /></a>
-<a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" /></a>
-
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/VSCode%20-%232E2E2E.svg?&style=flat&logo=visual-studio-code&logoColor=%2330A2FF" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=flat&logo=raspberry%20pi&logoColor=white" /></a>
 
-<a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat&logo=TensorFlow&logoColor=white" /></a>
-<a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white" /></a>
-<a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white" /></a>
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=arihant-jain-09.arihant-jain-09" alt="visitors"></p>
 
