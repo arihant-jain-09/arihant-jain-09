@@ -30,6 +30,7 @@ ___
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="total code files" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="total code files" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" /></a>
+<a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" /></a>
 
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e" /></a>
