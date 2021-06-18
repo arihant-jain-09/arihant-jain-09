@@ -39,6 +39,7 @@ ___
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" /></a>
+<a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" /></a>
 
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/-json-02569B?style=flat&logo=json" /></a>
