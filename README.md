@@ -6,6 +6,10 @@
    </a>
 </p>
 <p align="center" style="margin: -20px 0 30px">
+   <a href="https://arihant-jain.tech/" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://i.ibb.co/pnbj5JR/internet.png" border="0" alt="Website" height="22px" width="22px" />
+  </a>
+   &nbsp;&nbsp;
    <a href="https://www.instagram.com/arihant_jain_09/" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://i.ibb.co/PrgGCfk/instagram.png" alt="Instagram" height="22px" width="22px" />
   </a>
