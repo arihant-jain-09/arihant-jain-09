@@ -48,6 +48,8 @@ ___
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/-json-02569B?style=flat&logo=json" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" /></a>
+<a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" /></a>
+
 
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=white" /></a>
 <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" /></a>
